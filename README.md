@@ -1,7 +1,7 @@
 # Discord-template
 A sample code to start your first Discord bot 🤖
 
-If you need help, information or anything else with this project you can join the help server by just clicking [here](https://discord.gg/5cGSYV8ZZj).
+If you need help, information or anything else with this project you can join the help server by just clicking [here](https://discord.gg/E5vJE2trn8).
 
 ### ⚡ Installation
 
